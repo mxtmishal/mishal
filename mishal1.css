@@ -1,0 +1,58 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Oswald:wght@200..700&display=swap'); */
+/* p{
+  font-family: "Momo Signature", cursive;
+  font-weight: 400;
+  font-size: 5px;
+  font-style: italic;
+  font-variant: small-caps;
+  line-height: 3;
+  letter-spacing: 3px;
+  word-spacing: 5px;
+  text-transform: capitalize;
+  text-align: center;
+  text-decoration-line: underline;
+  text-decoration-color: red;
+  text-decoration-style: double;
+  text-decoration-thickness: 2px;
+  text-indent: 10px;
+  text-shadow: 2px 3px 10px;
+  
+  
+
+} */
+
+/* div{
+width: 10em;
+height:10em;
+background-color: red;
+} */
+
+/* div{
+  width: 20vw;
+  height: 10vw;
+  background-color: red;  
+} */
+
+/* div{
+  width: 10rem;
+  height: 20rem;
+  background-color: brown;
+} */
+
+/* div{
+  width: 20vh;
+  height: 10vh;
+  background-color: violet;
+} */
+/* 
+div{
+  width: 150vmin;
+ height: 100vmax;
+  background-color: rgb(255, 6, 40);
+} */
+
+div{
+  width: 10%;
+  height: 20%;
+  background-color: blue;
+}

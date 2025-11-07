@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: black;
+    position: relative;
+}
+.image img{
+    width: 25%;
+    height: 100vh;
+    margin-left: 10%;
+}
+.container2{
+    background-color: white;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    top: 0;
+    right: 15%;
+    width: 50%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 2px
+}
+.details label{
+    font-size: 12px;
+}
+#name{
+    width: 200px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+#cnum{
+    width: 200px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid grey;
+}
+.cdtl{
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.inputs{
+    margin-bottom: 20px;
+}
+#mm{
+    width: 42px;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+#yy{
+    width: 42px;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-right: 13px;
+}
+#cvc{
+    width: 130px;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border: 1px solid grey;
+    margin-right: 10px;
+}
+button{
+    width: 35%;
+    padding: 13px 21px;
+    color: white;
+    background-color: rgb(25, 5, 44);
+    border-radius: 5px;
+    font-size: 15px;
+}
+.fimg{
+    width: 350px;
+    height: 200px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+.clogo{
+    width: 50px;
+    position: absolute;
+    top: 22%;
+    left: 21%;
+}
+.fnum{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 22%;
+}
